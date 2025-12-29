@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Disclaimer</title>
+<style>
+body { font-family: Arial, sans-serif; background:#f5f5f5; padding:20px; }
+.container { max-width:800px; background:#fff; margin:auto; padding:30px; border-radius:8px; }
+h1,h2 { color:#111; }
+p { line-height:1.6; }
+a { color:#000; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Disclaimer</h1>
+
+<p><strong>This IQ test is for entertainment and educational purposes only.</strong></p>
+
+<h2>Not a Professional Test</h2>
+<p>This test is not a clinically administered IQ test and does not provide an official IQ score.</p>
+
+<h2>No Professional Advice</h2>
+<p>The results should not be used for medical, psychological, academic, or employment decisions.</p>
+
+<h2>Free Test & Optional Paid Results</h2>
+<p>The test itself is free. Optional paid features may include detailed reports or certificates.</p>
+
+<h2>Limitation of Liability</h2>
+<p>We are not responsible for actions taken based on test results.</p>
+
+<p><a href="index.html">← Back to IQ Test</a></p>
+</div>
+</body>
+</html>
